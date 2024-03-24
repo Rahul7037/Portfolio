@@ -1,7 +1,5 @@
 # React Developer Portfolio template
 #### Live Demo 
-#### Figma Design https://www.figma.com/community/file/1116246660507537002
-### Preview ( Dark Mode )
 
 
 ## Follow Below instructions to add your deatils in the portfolio.
