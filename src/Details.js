@@ -49,6 +49,31 @@ export const socialMediaUrl = {
   instagram: "https://www.instagram.com/varshneyrahul203/",
 };
 
+
+//Enter Your Certificate Details
+export const certiDetails = [
+  {
+    Position: "Computer Science",
+    Company: `CS50 Harvard University`,
+    Location: "Online",
+    Type: "Python",
+    Duration: "Jan 2022 - Apr 2022",
+  },
+  {
+    Position: "Python",
+    Company: "Udemy",
+    Location: "Online",
+    Type: "Python",
+    Duration: "Jan 2022"
+  },
+  {
+    Position: "Web Development",
+    Company: "Udemy",
+    Location: "Online",
+    Type: "HTML, CSS",
+    Duration: "Jan 2022"
+  }
+]
 // Enter your Work Experience here
 export const workDetails = [
   {
@@ -57,13 +82,6 @@ export const workDetails = [
     Location: "Online",
     Type: "Full Stack",
     Duration: "Aug 2022 - May 2023",
-  },
-  {
-    Position: "Internship",
-    Company: `CS50`,
-    Location: "Online",
-    Type: "Computer Science",
-    Duration: "Sep 2021 - Nov 2021",
   },
 ];
 
