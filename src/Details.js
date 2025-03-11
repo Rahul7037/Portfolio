@@ -117,9 +117,25 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
+    title: "Food_Calculator",
+    image: projectImage6,
+    description: `Nutritions is a web-based food calculator created as the final project for Harvard's Introduction to Computer Science (CS50). This project provides a user-friendly platform for tracking nutritional information of food items. Users can search for food products and view detailed nutritional data such as calories, proteins, fats, vitamins, and other essential nutrients.`,
+    techstack: "Flask, Python, SQLite, Database, HTML/CSS, Bootstrap",
+    previewLink: "https://food-calculator-sr4z.onrender.com/",
+    githubLink: "https://github.com/Rahul7037/Food_Calculator-",
+  },
+  {
+    title: "TODO App",
+    image: projectImage3,
+    description: `The app is a NodeJS-based project using EJS and Express frameworks along with Cluster. It includes user authentication features such as login, signup, and logout pages. It allows users to create and save their to-do lists along with personal information like email, password, address, and phone number.`,
+    techstack: "HTML/CSS, Node JS, EJS, Cluster, JavaScript",
+    previewLink: "https://todoapp-lfgw.onrender.com/",
+    githubLink: "https://github.com/Rahul7037/TodoApp",
+  },
+  {
     title: "IMDB Clone",
     image: projectImage1,
-    description: `This App is an  IMDB clone using HTML, CSS, JavaScript, and the OMDB API. This project aims to provide a user- friendly interface where users can search for movies and view detailed information about each movie. The application allows users to enter the name of a movie in the search bar, and upon submitting the search query, it fetches relevant movie data from the OMDB API. The retrieved information includes the movie's title, release year, genre, plot summary, cast, and ratings. `,
+    description: `This App is an IMDB clone using HTML, CSS, JavaScript, and the OMDB API. This project aims to provide a user-friendly interface where users can search for movies and view detailed information about each movie. The retrieved information includes the movie's title, release year, genre, plot summary, cast, and ratings.`,
     techstack: "HTML/CSS, JavaScript, API",
     previewLink: "https://rahul7037.github.io/IMDB-Clone/",
     githubLink: "https://github.com/Rahul7037/IMDB-Clone",
@@ -127,18 +143,10 @@ export const projectDetails = [
   {
     title: "Weather App",
     image: projectImage2,
-    description: `This weather app was created using Node.js and an API to provide current weather conditions for a given location. Using Node.js and an API, this weather app allows users to quickly and easily check the current weather conditions for any location `,
+    description: `This weather app was created using Node.js and an API to provide current weather conditions for a given location. Using Node.js and an API, this weather app allows users to quickly and easily check the current weather conditions for any location.`,
     techstack: "HTML/CSS, Node JS, EJS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com/Rahul7037/Weather-App/blob/main/index.js",
-  },
-  {
-    title: "TODO App",
-    image: projectImage3,
-    description: `The app is a NodeJS-based project using EJS and Express frameworks along with Cluster. It includes user authentication features such as login, signup, and logout pages, Allows users to create and save their to-do lists along with personal information like email, password, address, and phone number.`,
-    techstack: "HTML/CSS,,Node JS, EJS,Cluster JavaScript",
-    previewLink: "https://todoapp-lfgw.onrender.com/",
-    githubLink: "https://github.com/Rahul7037/TodoApp",
   },
   {
     title: "Dropdown",
@@ -151,19 +159,10 @@ export const projectDetails = [
   {
     title: "Super Hero",
     image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `This is sample project description. Random things are here in the description. This is a sample project lorem ipsum generator for dummy content.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com/Rahul7037/Super-Hero-",
-  },
-  {
-    title: "Ping Pong",
-    image: projectImage6,
-    description: `The game typically consists of a rectangular playing area, a paddle controlled by the player, and a ball that bounces around the screen. The objective is to hit the ball with the paddle and prevent it from hitting the edges of the playing area. Players score points by successfully hitting the ball past their opponent's paddle.`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://rahul7037.github.io/Ping-Pong/",
-    githubLink: "https://github.com/Rahul7037/Ping-Pong",
   },
 ];
 
